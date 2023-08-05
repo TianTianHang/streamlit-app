@@ -1,4 +1,3 @@
-import plotly.graph_objects as go
 import plotly.express as px
 import requests
 import streamlit as st
