@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Web Search",
+    "value": ""
+  },
+  {
+    "label": "Images Search",
+    "value": "images"
+  },
+  {
+    "label": "News Search",
+    "value": "news"
+  },
+  {
+    "label": "Youtube Search",
+    "value": "youtube"
+  },
+  {
+    "label": "Froogle Search",
+    "value": "froogle"
+  }
+]
